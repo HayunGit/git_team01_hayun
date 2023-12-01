@@ -5,3 +5,4 @@ manager :  KimMiMi
 members :
 - JinHo
 - Olivia
+- JoJo
