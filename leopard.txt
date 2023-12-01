@@ -1,0 +1,6 @@
+team : Leopards
+
+manager :  KimMiMi
+
+members :
+- JinHo
